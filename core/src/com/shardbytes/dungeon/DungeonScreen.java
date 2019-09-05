@@ -35,7 +35,7 @@ public class DungeonScreen implements Screen{
 	
 	@Override
 	public void resize(int width, int height){
-	
+	camera.update();
 	}
 	
 	@Override

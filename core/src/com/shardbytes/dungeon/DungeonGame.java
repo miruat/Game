@@ -16,5 +16,6 @@ public class DungeonGame extends Game{
 	@Override
 	public void dispose(){
 	
+		super.dispose();
 	}
 }
